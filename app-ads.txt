@@ -612,3 +612,8 @@ rubiconproject.com, 26250, RESELLER, 0bfd66d529a55807
 smartadserver.com, 4998, RESELLER
 video.unrulymedia.com, 498216989, RESELLER
 sharethrough.com, DcvTh1MK, RESELLER, d53b998a7bd4ecd2
+adingo.jp, 32534, RESELLER
+chocolateplatform.com, 21739, RESELLER
+lijit.com, 550620, RESELLER, fafdf38b16bf6b2b
+rubiconproject.com, 24248, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 583925374, RESELLER
