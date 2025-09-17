@@ -669,3 +669,5 @@ appnexus.com, 16769, RESELLER, f5ab79cb980f11d1
 rubiconproject.com, 26608, RESELLER, 0bfd66d529a55807
 sipo-inc.com, 122558, RESELLER
 smartadserver.com, 5407, RESELLER, 060d053dcf45cbf3
+pubmatic.com, 167103, RESELLER, 5d62403b186f2ace
+pubmatic.com, 167104, RESELLER, 5d62403b186f2ace
